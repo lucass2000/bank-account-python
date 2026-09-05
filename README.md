@@ -105,8 +105,4 @@ A versão principal cobre:
 - comparação entre implementação defeituosa e corrigida;
 - importância de testes no ciclo de desenvolvimento de software.
 
-## Contexto acadêmico
 
-Este repositório organiza uma versão revisada de um **projeto acadêmico em grupo** desenvolvido na disciplina de Engenharia de Software.
-
-Antes de publicar materiais produzidos pelo grupo (como relatório completo, documentos da faculdade ou código criado por outros integrantes), certifique-se de ter autorização dos demais participantes e remova dados pessoais como matrículas, e-mails e assinaturas.
