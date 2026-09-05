@@ -1,6 +1,6 @@
 # Bank Account Testing with Python
 
-Projeto acadêmico desenvolvido durante o curso de Ciência da Computação com foco em **Engenharia de Software, testes automatizados, verificação e validação de software**.
+Projeto Pessoal desenvolvido com foco em **Engenharia de Software, testes automatizados, verificação e validação de software**.
 
 O projeto simula operações bancárias simples e demonstra, de forma prática, como testes automatizados podem identificar falhas de lógica e validar uma implementação corrigida.
 
